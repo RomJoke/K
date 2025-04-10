@@ -7,7 +7,7 @@
         <mxCell id="84PaPSI5aTJwHKwBoPMj-1" value="Nhân viên&amp;nbsp; kho" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="920" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="84PaPSI5aTJwHKwBoPMj-3" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+        <mxCell id="84PaPSI5aTJwHKwBoPMj-3" value="s" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="-100" width="680" height="1220" as="geometry" />
         </mxCell>
         <mxCell id="84PaPSI5aTJwHKwBoPMj-16" value="Cập nhật kho hàng" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="84PaPSI5aTJwHKwBoPMj-3" vertex="1">
