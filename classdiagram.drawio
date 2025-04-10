@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.9">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="2026" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1795" dy="2288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,7 +189,7 @@
         <mxCell id="cm0d4Y98Hce47HyUnUgf-204" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#095C86;" parent="cm0d4Y98Hce47HyUnUgf-202" vertex="1">
           <mxGeometry y="100" width="280" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="cm0d4Y98Hce47HyUnUgf-205" value="TaoHD(List&amp;lt;HangHoa&amp;gt; dsHangBan) : boolean&amp;nbsp;&lt;div&gt;ThemHangVaoHD(): boolean&lt;/div&gt;&lt;div&gt;TinhTongTienHD(): double&lt;/div&gt;&lt;div&gt;XuatHD(): boolean&lt;/div&gt;&lt;div&gt;CapNhatKH(): boolean&lt;/div&gt;&lt;div&gt;capNhatTonKhoSauKhiBan(): void&lt;/div&gt;&lt;div&gt;timHoaDonThemMa(int id) HDBH&lt;/div&gt;&lt;div&gt;inHoaDon: void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#095C86;" parent="cm0d4Y98Hce47HyUnUgf-202" vertex="1">
+        <mxCell id="cm0d4Y98Hce47HyUnUgf-205" value="TaoHD(List&amp;lt;HangHoa&amp;gt; dsHangBan) : boolean&amp;nbsp;&lt;div&gt;TinhTongTienHD(): double&lt;/div&gt;&lt;div&gt;XuatHD(): boolean&lt;/div&gt;&lt;div&gt;CapNhatKH(): boolean&lt;/div&gt;&lt;div&gt;capNhatTonKhoSauKhiBan(): void&lt;/div&gt;&lt;div&gt;tTraCuuHoaDon(): boolean&lt;/div&gt;&lt;div&gt;inHoaDon: void&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#095C86;" parent="cm0d4Y98Hce47HyUnUgf-202" vertex="1">
           <mxGeometry y="108" width="280" height="122" as="geometry" />
         </mxCell>
         <mxCell id="cm0d4Y98Hce47HyUnUgf-206" value="Phiếu Nhập" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#333135, #d176ff);fontColor=#095C86;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -381,7 +381,7 @@
             <mxPoint x="1030.93" y="336.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1010" y="650" />
-              <mxPoint x="1010" y="572" />
+              <mxPoint x="1010" y="582" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -391,7 +391,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X0fYnVSRhOy8A3_jzXu8-131" value="1..1" style="resizable=0;align=left;verticalAlign=top;labelBackgroundColor=none;fontSize=10;strokeColor=#AF45ED;shadow=1;fillColor=#F694C1;fontColor=#095C86;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="1050" y="530" as="geometry">
+          <mxGeometry x="1060" y="550" as="geometry">
             <mxPoint x="-19" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
