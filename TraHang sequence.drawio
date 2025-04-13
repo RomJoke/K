@@ -1,9 +1,162 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="Page-1" id="bJi0xWv1C5D85ryZ06Rt">
-    <mxGraphModel>
+    <mxGraphModel dx="1953" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-1" value="Trả hàng" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="1950" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="20" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-3" value="Khách hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="385" y="230" width="20" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-4">
+          <mxGeometry x="5" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-4">
+          <mxGeometry x="5" y="320" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-5" value="Nhân viên bán hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-6" value="Giao diện trả hàng" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-6">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-30" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-6">
+          <mxGeometry x="45" y="310" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-7" value="Xử lý trả hàng" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="750" y="230" width="100" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-7">
+          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-7">
+          <mxGeometry x="45" y="260" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-8" value="Kho hàng" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="990" y="230" width="100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-8">
+          <mxGeometry x="45" y="170" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-8">
+          <mxGeometry x="45" y="210" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-43" value="xử&amp;nbsp; lý cập&amp;nbsp; nhật" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="2ji-g_NIKeBX3GZcIM7i-42" parent="2ji-g_NIKeBX3GZcIM7i-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-9" value="Cơ sở dữ liệu phiếu trả" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1500" y="230" width="100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-9">
+          <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-10" value="Cơ sở dữ liệu hóa đơn hàng hóa" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1260" y="230" width="100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2ji-g_NIKeBX3GZcIM7i-10">
+          <mxGeometry x="45" y="90" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-11" value="Nhà cung cấp" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1780" y="230" width="100" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-13" value="yêu cầu trả hàng (mã hóa đơn, lý do)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.57;entryY=0.177;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-2" target="2ji-g_NIKeBX3GZcIM7i-12">
+          <mxGeometry x="0.0111" width="80" relative="1" as="geometry">
+            <mxPoint x="230" y="360" as="sourcePoint" />
+            <mxPoint x="310" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-15" value="nhập yêu cầu trả hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.57;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-4" target="2ji-g_NIKeBX3GZcIM7i-14">
+          <mxGeometry x="-0.0061" width="80" relative="1" as="geometry">
+            <mxPoint x="450" y="400" as="sourcePoint" />
+            <mxPoint x="530" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-20" value="truy&amp;nbsp; vấn hóa đơn góc và chi tiết" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.462;entryY=0.152;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-7" target="2ji-g_NIKeBX3GZcIM7i-10">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1080" y="390" as="sourcePoint" />
+            <mxPoint x="1160" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-21" value="trả thông tin hóa đơn" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.479;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-10" target="2ji-g_NIKeBX3GZcIM7i-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="430" as="sourcePoint" />
+            <mxPoint x="930" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-23" value="gửi thông tin trả hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.437;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-6" target="2ji-g_NIKeBX3GZcIM7i-16">
+          <mxGeometry x="0.0054" width="80" relative="1" as="geometry">
+            <mxPoint x="670" y="450" as="sourcePoint" />
+            <mxPoint x="915" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-24" value="cập nhật kho hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.488;entryY=0.258;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-7" target="2ji-g_NIKeBX3GZcIM7i-8">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="860" y="520" as="sourcePoint" />
+            <mxPoint x="940" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-28" value="tạo phiếu trả hàng,lưu chi tiết" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.501;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-7" target="2ji-g_NIKeBX3GZcIM7i-9">
+          <mxGeometry x="0.0014" width="80" relative="1" as="geometry">
+            <mxPoint x="950" y="560" as="sourcePoint" />
+            <mxPoint x="1030" y="560" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-29" value="xác nhận lưu phiếu trả hàng" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.501;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-9" target="2ji-g_NIKeBX3GZcIM7i-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="580" as="sourcePoint" />
+            <mxPoint x="1120" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-31" value="thông báo trả hàng thành công" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.53;entryY=0.454;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-7" target="2ji-g_NIKeBX3GZcIM7i-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="670" as="sourcePoint" />
+            <mxPoint x="590" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-33" value="hiển thị kết quả cho khách hàng" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.476;entryY=0.477;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-6" target="2ji-g_NIKeBX3GZcIM7i-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="650" as="sourcePoint" />
+            <mxPoint x="360" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-34" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="580" width="1210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1825" y="600" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-36" value="gửi yêu cầu kiểm tra đơn&amp;nbsp; hàng" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.535;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-7" target="2ji-g_NIKeBX3GZcIM7i-11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1090" y="630" as="sourcePoint" />
+            <mxPoint x="1170" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ji-g_NIKeBX3GZcIM7i-37" value="xác nhận tiếp nhận" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.486;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2ji-g_NIKeBX3GZcIM7i-11" target="2ji-g_NIKeBX3GZcIM7i-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="680" as="sourcePoint" />
+            <mxPoint x="1120" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
